@@ -51,7 +51,7 @@ export default function Home() {
         </div>
 
         <footer className={styles.footer}>
-          <p>Notes are filtered -- harmful notes will be rejected.</p>
+          <p>Notes are moderated and harmful notes will be rejected.</p>
           <p className={styles.copyright}>&copy; twodotsonamap</p>
         </footer>
       </main>
